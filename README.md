@@ -22,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Moreschi1997/leedcode-resolution/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Moreschi1997/leedcode-resolution/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
