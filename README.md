@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Moreschi1997/leedcode-resolution/tree/master/0001-two-sum) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Moreschi1997/leedcode-resolution/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Moreschi1997/leedcode-resolution/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3849-equal-sum-grid-partition-i](https://github.com/Moreschi1997/leedcode-resolution/tree/master/3849-equal-sum-grid-partition-i) |
 ## Matrix
 |  |
 | ------- |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Moreschi1997/leedcode-resolution/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Moreschi1997/leedcode-resolution/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3849-equal-sum-grid-partition-i](https://github.com/Moreschi1997/leedcode-resolution/tree/master/3849-equal-sum-grid-partition-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,8 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Moreschi1997/leedcode-resolution/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3849-equal-sum-grid-partition-i](https://github.com/Moreschi1997/leedcode-resolution/tree/master/3849-equal-sum-grid-partition-i) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Moreschi1997/leedcode-resolution/tree/master/0009-palindrome-number) |
+## Enumeration
+|  |
+| ------- |
+| [3849-equal-sum-grid-partition-i](https://github.com/Moreschi1997/leedcode-resolution/tree/master/3849-equal-sum-grid-partition-i) |
 <!---LeetCode Topics End-->
