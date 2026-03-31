@@ -33,4 +33,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3849-equal-sum-grid-partition-i](https://github.com/Moreschi1997/leedcode-resolution/tree/master/3849-equal-sum-grid-partition-i) |
+## String
+|  |
+| ------- |
+| [3770-lexicographically-smallest-generated-string](https://github.com/Moreschi1997/leedcode-resolution/tree/master/3770-lexicographically-smallest-generated-string) |
+## Greedy
+|  |
+| ------- |
+| [3770-lexicographically-smallest-generated-string](https://github.com/Moreschi1997/leedcode-resolution/tree/master/3770-lexicographically-smallest-generated-string) |
+## String Matching
+|  |
+| ------- |
+| [3770-lexicographically-smallest-generated-string](https://github.com/Moreschi1997/leedcode-resolution/tree/master/3770-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
