@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/Moreschi1997/leedcode-resolution/tree/master/0657-robot-return-to-origin) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/Moreschi1997/leedcode-resolution/tree/master/3770-lexicographically-smallest-generated-string) |
 ## Greedy
 |  |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Moreschi1997/leedcode-resolution/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/Moreschi1997/leedcode-resolution/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
