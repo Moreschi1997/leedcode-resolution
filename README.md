@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Moreschi1997/leedcode-resolution/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Moreschi1997/leedcode-resolution/tree/master/3849-equal-sum-grid-partition-i) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/Moreschi1997/leedcode-resolution/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
+| [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/Moreschi1997/leedcode-resolution/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Moreschi1997/leedcode-resolution/tree/master/0001-two-sum) |
 | [0906-walking-robot-simulation](https://github.com/Moreschi1997/leedcode-resolution/tree/master/0906-walking-robot-simulation) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/Moreschi1997/leedcode-resolution/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
+| [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/Moreschi1997/leedcode-resolution/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 ## Prefix Sum
 |  |
 | ------- |
