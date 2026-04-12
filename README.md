@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Moreschi1997/leedcode-resolution/tree/master/0001-two-sum) |
 | [0906-walking-robot-simulation](https://github.com/Moreschi1997/leedcode-resolution/tree/master/0906-walking-robot-simulation) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Moreschi1997/leedcode-resolution/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2058-concatenation-of-array](https://github.com/Moreschi1997/leedcode-resolution/tree/master/2058-concatenation-of-array) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Moreschi1997/leedcode-resolution/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Moreschi1997/leedcode-resolution/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Moreschi1997/leedcode-resolution/tree/master/3849-equal-sum-grid-partition-i) |
@@ -63,4 +64,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Moreschi1997/leedcode-resolution/tree/master/0657-robot-return-to-origin) |
 | [0906-walking-robot-simulation](https://github.com/Moreschi1997/leedcode-resolution/tree/master/0906-walking-robot-simulation) |
+| [2058-concatenation-of-array](https://github.com/Moreschi1997/leedcode-resolution/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
