@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Moreschi1997/leedcode-resolution/tree/master/0001-two-sum) |
 | [0906-walking-robot-simulation](https://github.com/Moreschi1997/leedcode-resolution/tree/master/0906-walking-robot-simulation) |
+| [1975-minimum-distance-to-the-target-element](https://github.com/Moreschi1997/leedcode-resolution/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Moreschi1997/leedcode-resolution/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2058-concatenation-of-array](https://github.com/Moreschi1997/leedcode-resolution/tree/master/2058-concatenation-of-array) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Moreschi1997/leedcode-resolution/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
