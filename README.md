@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-minimum-distance-to-the-target-element](https://github.com/Moreschi1997/leedcode-resolution/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Moreschi1997/leedcode-resolution/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2058-concatenation-of-array](https://github.com/Moreschi1997/leedcode-resolution/tree/master/2058-concatenation-of-array) |
+| [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Moreschi1997/leedcode-resolution/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Moreschi1997/leedcode-resolution/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Moreschi1997/leedcode-resolution/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Moreschi1997/leedcode-resolution/tree/master/3849-equal-sum-grid-partition-i) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Moreschi1997/leedcode-resolution/tree/master/0657-robot-return-to-origin) |
+| [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Moreschi1997/leedcode-resolution/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/Moreschi1997/leedcode-resolution/tree/master/3770-lexicographically-smallest-generated-string) |
 ## Greedy
 |  |
