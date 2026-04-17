@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3849-equal-sum-grid-partition-i](https://github.com/Moreschi1997/leedcode-resolution/tree/master/3849-equal-sum-grid-partition-i) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/Moreschi1997/leedcode-resolution/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/Moreschi1997/leedcode-resolution/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
+| [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Moreschi1997/leedcode-resolution/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3750-closest-equal-element-queries](https://github.com/Moreschi1997/leedcode-resolution/tree/master/3750-closest-equal-element-queries) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/Moreschi1997/leedcode-resolution/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/Moreschi1997/leedcode-resolution/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
+| [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Moreschi1997/leedcode-resolution/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Moreschi1997/leedcode-resolution/tree/master/0009-palindrome-number) |
+| [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Moreschi1997/leedcode-resolution/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## Enumeration
 |  |
 | ------- |
