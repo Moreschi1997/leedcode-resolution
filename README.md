@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Moreschi1997/leedcode-resolution/tree/master/0001-two-sum) |
 | [0906-walking-robot-simulation](https://github.com/Moreschi1997/leedcode-resolution/tree/master/0906-walking-robot-simulation) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Moreschi1997/leedcode-resolution/tree/master/1975-minimum-distance-to-the-target-element) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/Moreschi1997/leedcode-resolution/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Moreschi1997/leedcode-resolution/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2058-concatenation-of-array](https://github.com/Moreschi1997/leedcode-resolution/tree/master/2058-concatenation-of-array) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Moreschi1997/leedcode-resolution/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
@@ -76,5 +77,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/Moreschi1997/leedcode-resolution/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [3750-closest-equal-element-queries](https://github.com/Moreschi1997/leedcode-resolution/tree/master/3750-closest-equal-element-queries) |
+## Two Pointers
+|  |
+| ------- |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/Moreschi1997/leedcode-resolution/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 <!---LeetCode Topics End-->
