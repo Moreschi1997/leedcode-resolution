@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Moreschi1997/leedcode-resolution/tree/master/0001-two-sum) |
 | [0906-walking-robot-simulation](https://github.com/Moreschi1997/leedcode-resolution/tree/master/0906-walking-robot-simulation) |
+| [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Moreschi1997/leedcode-resolution/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Moreschi1997/leedcode-resolution/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Moreschi1997/leedcode-resolution/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Moreschi1997/leedcode-resolution/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -85,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Moreschi1997/leedcode-resolution/tree/master/1984-maximum-distance-between-a-pair-of-values) |
+## Depth-First Search
+|  |
+| ------- |
+| [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Moreschi1997/leedcode-resolution/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
+## Union-Find
+|  |
+| ------- |
+| [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Moreschi1997/leedcode-resolution/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 <!---LeetCode Topics End-->
