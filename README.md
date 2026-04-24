@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Moreschi1997/leedcode-resolution/tree/master/0657-robot-return-to-origin) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/Moreschi1997/leedcode-resolution/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Moreschi1997/leedcode-resolution/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
+| [3019-furthest-point-from-origin](https://github.com/Moreschi1997/leedcode-resolution/tree/master/3019-furthest-point-from-origin) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/Moreschi1997/leedcode-resolution/tree/master/3770-lexicographically-smallest-generated-string) |
 ## Greedy
 |  |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/Moreschi1997/leedcode-resolution/tree/master/2550-words-within-two-edits-of-dictionary) |
+## Counting
+|  |
+| ------- |
+| [3019-furthest-point-from-origin](https://github.com/Moreschi1997/leedcode-resolution/tree/master/3019-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
