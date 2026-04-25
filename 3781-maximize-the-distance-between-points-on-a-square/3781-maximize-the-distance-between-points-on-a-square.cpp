@@ -5,7 +5,6 @@ public:
         vector<long long> p(n);
         long long perimeter = 4LL * side;
 
-        // 1. ConversÃ£o ultra-rÃ¡pida
         for (int i = 0; i < n; ++i) {
             long long x = points[i][0], y = points[i][1];
             if (y == 0) p[i] = x;
@@ -16,12 +15,10 @@ public:
 
         sort(p.begin(), p.end());
 
-        // 2. DuplicaÃ§Ã£o seletiva (ou apenas tratar com mÃ³dulo, mas duplicar Ã© mais rÃ¡pido para o cache)
         for (int i = 0; i < n; ++i) {
             p.push_back(p[i] + perimeter);
         }
 
-        // 3. Busca BinÃ¡ria Otimizada
         long long low = 1, high = perimeter / k, ans = 1;
 
         while (low <= high) {
