@@ -1,62 +1,62 @@
 class Solution {
 public:
     int maxDistance(int side, vector<vector<int>>& points, int k) {
-        vector<long long> linearPoints;
-        for (int i = 0; i < points.size(); i++) {
-            long long p1 = points[i][0];
-            long long p2 = points[i][1];
-            long long pos = 0;
-
-            if (p2 == 0) pos = p1;
-            else if (p1 == side) pos = (long long)side + p2;
-            else if (p2 == side) pos = 2LL * side + (side - p1);
-            else pos = 3LL * side + (side - p2);
-            
-            linearPoints.push_back(pos);
-        }
-
+        int n = points.size();
+        vector<long long> p(n);
         long long perimeter = 4LL * side;
-        sort(linearPoints.begin(), linearPoints.end());
-        int n = linearPoints.size();
-        for (int i = 0; i < n; i++) {
-            linearPoints.push_back(linearPoints[i] + perimeter);
+
+        // 1. ConversÃ£o ultra-rÃ¡pida
+        for (int i = 0; i < n; ++i) {
+            long long x = points[i][0], y = points[i][1];
+            if (y == 0) p[i] = x;
+            else if (x == side) p[i] = side + y;
+            else if (y == side) p[i] = 2LL * side + (side - x);
+            else p[i] = 3LL * side + (side - y);
         }
 
-        long long low = 1, high = perimeter / k;
-        long long ans = 0;
+        sort(p.begin(), p.end());
+
+        // 2. DuplicaÃ§Ã£o seletiva (ou apenas tratar com mÃ³dulo, mas duplicar Ã© mais rÃ¡pido para o cache)
+        for (int i = 0; i < n; ++i) {
+            p.push_back(p[i] + perimeter);
+        }
+
+        // 3. Busca BinÃ¡ria Otimizada
+        long long low = 1, high = perimeter / k, ans = 1;
 
         while (low <= high) {
             long long mid = low + (high - low) / 2;
-            bool possivel = false;
+            bool possible = false;
 
-            
-            for (int i = 0; i < n; i++) {
-            
-                if (linearPoints[i] > linearPoints[0] + mid) break;
+            // OTIMIZAÃÃO CRÃTICA: 
+            // SÃ³ testamos pontos de partida no primeiro intervalo 'mid'. 
+            // Se nÃ£o conseguirmos comeÃ§ar aqui, nÃ£o conseguiremos em lugar nenhum.
+            for (int i = 0; i < n; ++i) {
+                if (p[i] > p[0] + mid) break; 
 
                 int count = 1;
-                long long lastPos = linearPoints[i];
+                long long last = p[i];
+                int curr = i;
 
-                for (int j = 1; j < k; j++) {
-                    auto it = lower_bound(linearPoints.begin() + i + 1, 
-                                          linearPoints.begin() + i + n, 
-                                          lastPos + mid);
-                    
-                    if (it == linearPoints.begin() + i + n) {
+                for (int j = 1; j < k; ++j) {
+                    // Usamos lower_bound mas com um 'hint' de busca mais prÃ³ximo
+                    auto it = lower_bound(p.begin() + curr + 1, p.begin() + i + n, last + mid);
+                    if (it == p.begin() + i + n) {
                         count = -1;
                         break;
                     }
-                    lastPos = *it;
+                    last = *it;
+                    curr = distance(p.begin(), it);
                     count++;
                 }
 
-                if (count == k && (linearPoints[i] + perimeter - lastPos >= mid)) {
-                    possivel = true;
+                if (count == k && (p[i] + perimeter - last >= mid)) {
+                    possible = true;
                     break;
                 }
             }
 
-            if (possivel) {
+            if (possible) {
                 ans = mid;
                 low = mid + 1;
             } else {
