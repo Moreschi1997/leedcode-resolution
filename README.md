@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Moreschi1997/leedcode-resolution/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Moreschi1997/leedcode-resolution/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3750-closest-equal-element-queries](https://github.com/Moreschi1997/leedcode-resolution/tree/master/3750-closest-equal-element-queries) |
+| [3781-maximize-the-distance-between-points-on-a-square](https://github.com/Moreschi1997/leedcode-resolution/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Moreschi1997/leedcode-resolution/tree/master/3849-equal-sum-grid-partition-i) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/Moreschi1997/leedcode-resolution/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/Moreschi1997/leedcode-resolution/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Moreschi1997/leedcode-resolution/tree/master/0009-palindrome-number) |
+| [3781-maximize-the-distance-between-points-on-a-square](https://github.com/Moreschi1997/leedcode-resolution/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Moreschi1997/leedcode-resolution/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## Enumeration
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Moreschi1997/leedcode-resolution/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [3750-closest-equal-element-queries](https://github.com/Moreschi1997/leedcode-resolution/tree/master/3750-closest-equal-element-queries) |
+| [3781-maximize-the-distance-between-points-on-a-square](https://github.com/Moreschi1997/leedcode-resolution/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3019-furthest-point-from-origin](https://github.com/Moreschi1997/leedcode-resolution/tree/master/3019-furthest-point-from-origin) |
+## Geometry
+|  |
+| ------- |
+| [3781-maximize-the-distance-between-points-on-a-square](https://github.com/Moreschi1997/leedcode-resolution/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
+## Sorting
+|  |
+| ------- |
+| [3781-maximize-the-distance-between-points-on-a-square](https://github.com/Moreschi1997/leedcode-resolution/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 <!---LeetCode Topics End-->
