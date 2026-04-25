@@ -28,9 +28,6 @@ public:
             long long mid = low + (high - low) / 2;
             bool possible = false;
 
-            // OTIMIZAÃÃO CRÃTICA: 
-            // SÃ³ testamos pontos de partida no primeiro intervalo 'mid'. 
-            // Se nÃ£o conseguirmos comeÃ§ar aqui, nÃ£o conseguiremos em lugar nenhum.
             for (int i = 0; i < n; ++i) {
                 if (p[i] > p[0] + mid) break; 
 
@@ -39,7 +36,7 @@ public:
                 int curr = i;
 
                 for (int j = 1; j < k; ++j) {
-                    // Usamos lower_bound mas com um 'hint' de busca mais prÃ³ximo
+                    
                     auto it = lower_bound(p.begin() + curr + 1, p.begin() + i + n, last + mid);
                     if (it == p.begin() + i + n) {
                         count = -1;
