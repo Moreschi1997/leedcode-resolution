@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2550-words-within-two-edits-of-dictionary](https://github.com/Moreschi1997/leedcode-resolution/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Moreschi1997/leedcode-resolution/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2634-minimum-common-value](https://github.com/Moreschi1997/leedcode-resolution/tree/master/2634-minimum-common-value) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Moreschi1997/leedcode-resolution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Moreschi1997/leedcode-resolution/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Moreschi1997/leedcode-resolution/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3750-closest-equal-element-queries](https://github.com/Moreschi1997/leedcode-resolution/tree/master/3750-closest-equal-element-queries) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Moreschi1997/leedcode-resolution/tree/master/0001-two-sum) |
 | [0906-walking-robot-simulation](https://github.com/Moreschi1997/leedcode-resolution/tree/master/0906-walking-robot-simulation) |
 | [2634-minimum-common-value](https://github.com/Moreschi1997/leedcode-resolution/tree/master/2634-minimum-common-value) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Moreschi1997/leedcode-resolution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3750-closest-equal-element-queries](https://github.com/Moreschi1997/leedcode-resolution/tree/master/3750-closest-equal-element-queries) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/Moreschi1997/leedcode-resolution/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/Moreschi1997/leedcode-resolution/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/Moreschi1997/leedcode-resolution/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Moreschi1997/leedcode-resolution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
